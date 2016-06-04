@@ -1,0 +1,25 @@
+{
+  "name": "slide-handle",
+  "description": "A handle for a custom slider",
+  "main": "slide-handle.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
+    "web-component-tester": "^4.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "homepage": "https://github.com/arefin86/slideHandle",
+  "_release": "e26a5c3150",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "e26a5c315058c5dd9d2bed6d01034309d432d8b6"
+  },
+  "_source": "git://github.com/arefin86/slideHandle.git",
+  "_target": "master",
+  "_originalSource": "arefin86/slideHandle",
+  "_direct": true
+}
